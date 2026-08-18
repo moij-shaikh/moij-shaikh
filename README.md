@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋 I'm moij-shaikh
+
+I'm a Backend Developer learning and building backend applications with Python.
+
+### Skills
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- Alembic
+- Git & GitHub
+
+### Projects
+
+- E-commerce Backend API
+- Online File Storage API
+
+### Currently Learning
+
+- Advanced FastAPI
+- WebSockets
+- Testing
+- Docker
