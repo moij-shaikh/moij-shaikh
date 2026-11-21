@@ -16,6 +16,5 @@ I'm a Backend Developer learning and building backend applications with Python.
 
 ### Currently Learning
 
-- WebSockets
 - Testing
 
